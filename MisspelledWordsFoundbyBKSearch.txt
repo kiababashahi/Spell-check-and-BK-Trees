@@ -1,0 +1,3 @@
+algoithms: algorithm, algorithms
+corretor: correo, barretor, carreton, corresol, corector, corridor, corneter, cocreator, correcter, corrector, corruptor, concretor, conrector, correctory
+speliig: apeling, seling, seeling, spewing, spiling, spelling, speeling, spelding, sperling, speiling, spieling
